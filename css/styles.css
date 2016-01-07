@@ -868,6 +868,7 @@ Screenshots
 .screenshots figure {
     position: relative;
     overflow: hidden;
+    color: #fff
 }
 .screenshots figure img {
     width: 100%;
